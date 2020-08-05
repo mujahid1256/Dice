@@ -1,0 +1,101 @@
+body{
+    margin:0;
+    padding: 0;
+    background-image: url(/img/B12.jpg);
+     background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+header{
+    
+    background-color: green;
+    color: black;
+    padding-top: 10px;
+    min-height: 20px;
+    margin-bottom: auto;
+    border-bottom: solid 3px black;
+} 
+header a{
+    color:black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;    
+}
+
+header li{
+    display:inline;
+    padding:20px;
+  
+}
+h1{
+    text-align: center;
+    padding-top: 50px;
+}
+
+header nav{
+    float: right;
+   
+    
+}
+
+
+
+ h3.mongo {
+    color: black;
+    text-align: center;
+    margin: auto;
+    transition:     1s ease;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+/* sidebar */
+aside#sidebar {
+    margin:auto;
+    width: 30%;
+    margin-top: 100px;
+    
+
+}
+
+aside#sidebar .quote input,
+aside#sidebar .quote textarea {
+    width: 90%;
+    padding: 5px;
+    border-radius: 5px;
+   
+}
+.button_1{
+    height: 38px;
+    background: black;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #ffffff;
+    border-radius: 10px;
+}
+.dark{
+    padding: 15px;
+    background: green;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+ 
+
+}
+
+
+    
+footer{
+    padding: 20px;
+    margin-top: 600px;
+    color: #ffffff;
+    background-color:green;
+    text-align: center;
+}
+
+
+
+
+
